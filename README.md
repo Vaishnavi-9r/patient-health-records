@@ -2,8 +2,8 @@ Patient Health Record (PHR) Management System
 
 A full-stack healthcare web application that allows patients to securely manage their medical records and hospital staff to upload records and schedule appointments using role-based access control.
 
-🚀 Features
-👤 Patient
+ Features
+ Patient
 
 Secure login
 
@@ -13,7 +13,7 @@ View appointment details
 
 Patient-specific dashboard
 
-🏥 Hospital Staff
+ Hospital Staff:
 
 Secure login
 
@@ -25,7 +25,7 @@ View hospital records
 
 Staff-specific dashboard
 
-🔐 Common
+ Common:
 
 Role-based authentication (Patient / Staff)
 
